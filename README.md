@@ -1,0 +1,18 @@
+<p align="center">
+    <a>
+    <img alt="date" src="https://img.shields.io/packagist/stars/:beritlin/pop_cat?style=for-the-badge" target="_blank" />
+  </a>
+  <a>
+    <img alt="date" src="https://img.shields.io/github/last-commit/beritlin/pop_cat?style=for-the-badge" target="_blank" />
+  </a>
+  <a>
+    <img alt="status" src="https://img.shields.io/bitbucket/issues-raw/:beritlin/:pop_cat?style=for-the-badge" target="_blank" />
+  </a>
+</p>
+
+<p align='center'>  <a href="https://github.com/beritlin/Scale_Free_Network">    <img src="TaiwanNO1.png">  </a></p>
+
+<h1>Let's make it happened!</h1>
+
+<p align='center'>  <a href="https://github.com/beritlin/Scale_Free_Network">    <img src="Demo.gif">  </a></p>
+
