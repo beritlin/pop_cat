@@ -12,7 +12,9 @@
 
 <p align='center'>  <a href="https://github.com/beritlin/Scale_Free_Network">    <img src="TaiwanNO1.png">  </a></p>
 
-<h1>Let's make it happened!</h1>
+<h1>
+  Make Taiwan great again!
+</h1>
 
 <p align='center'>  <a href="https://github.com/beritlin/Scale_Free_Network">    <img src="Demo.gif">  </a></p>
 
