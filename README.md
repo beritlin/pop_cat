@@ -16,7 +16,7 @@ This is a python script (jupyter) for [POPCAT](./https://popcat.click/) challeng
 We have been in the FIRST place but Taiwan is 2th place now.
 Let's fight for our country‼️ (2021.08/17)
 
-<p align='center'>  <a href="https://github.com/beritlin/Scale_Free_Network">    <img src="TaiwanNO1.png">  </a></p>
+<p align='center'>   <img src="TaiwanNO1.png">  </p>
 
 ## How to use
 
@@ -35,6 +35,12 @@ Let's fight for our country‼️ (2021.08/17)
 ### Demo
 
 <p align='center'>  <a href="https://github.com/beritlin/Scale_Free_Network">    <img src="Demo.gif">  </a></p>
+
+> **Note:** if the sleep is too short you may get the "red eyes cat" and the click point will not be counted after that.
+>
+> <p align='center'>   <img src="popcat_redeyes.gif">  </p>
+
+
 
 ## Author
 
